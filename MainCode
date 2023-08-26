@@ -1,0 +1,10 @@
+/*
+
+Exploratory Data Analysis in SQL
+
+*/
+
+SELECT 
+  *
+FROM reviews
+LIMIT 10
